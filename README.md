@@ -12,6 +12,7 @@ Your system must meet the following minimum requirements to use the DP2SceneGrap
 # Installation
 
 Please download the installer file from the latest release.
+
 [![Generic badge](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/rrirower/DP2SceneGraphWizard/releases/latest)
 
 [![Github All Releases](https://img.shields.io/github/downloads/rrirower/DP2SceneGraphWizard/total.svg)](https://github.com/rrirower/DP2SceneGraphWizard/releases/latest)
