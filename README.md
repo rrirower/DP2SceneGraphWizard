@@ -7,7 +7,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 Your system must meet the following minimum requirements to use the DP2SceneGraph Wizard tool.
 * 64-bit Windows 10 or higher.
 * .Net 7 framework.
-* xx MB Hard disk space.
+* 30 MB Hard disk space.
 
 # Installation
 
