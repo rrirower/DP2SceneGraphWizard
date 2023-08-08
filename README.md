@@ -8,6 +8,7 @@ Your system must meet the following minimum requirements to use the DP2SceneGrap
 * 64-bit Windows 10 or higher.
 * .Net 7 framework.
 * 30 MB Hard disk space.
+* NOTE: Your feed file MUST define Category objects.
 
 # Installation
 
