@@ -1,6 +1,8 @@
 # DP2SceneGraphWizard
 Direct Publisher to SceneGraph wizard is a tool that uses your Direct Publisher JSON feed file and generates the necessary BrightScript code to create a SceneGraph Grid channel.  It serves as a starting point for channel developers to build out a Grid channel.  The output from the wizard is a zip file that contains the necessary files to sideload the channel to a connected Roku device.
 
+A companion software tool is available to help create and manage your feed file.  Take a look at the [Channel Feed Manager](https://github.com/rrirower/Channel-Feed-Manager) suite of tools.
+
 NOTE: This software is not endorsed by or affiliated with Roku in any way.
 
 # Prerequisites
