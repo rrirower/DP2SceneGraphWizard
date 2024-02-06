@@ -8,6 +8,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 # Features
 * Ad-supported monetization.
 * Subscriptions.
+* Intra-channel Search.
 * JSON and MRSS feed files supported.
   
 # Prerequisites
