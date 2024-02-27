@@ -7,9 +7,9 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 
 # Features
 * Ad-supported monetization.
-* Subscriptions.
+* Subscriptions. Requires REST API back-end server.
 * Intra-channel Search.
-* Content voting.
+* Content voting.  Requires REST API back-end server.
 * JSON and MRSS feed files supported.
   
 # Prerequisites
