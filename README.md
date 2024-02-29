@@ -34,7 +34,7 @@ Software support is available by submitting an "issue".  Please attach any files
 
 **Please follow this repo if you'd like notification of version updates.**
 
-[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/DP2SceneGraphWizard/new)
+[![Generic badge](https://img.shields.io/badge/Issues-New-green.svg)](https://github.com/rrirower/DP2SceneGraphWizard/issues/new/choose)
 
 # License
 Please read the license before using the software.
