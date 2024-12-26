@@ -28,6 +28,11 @@ Please download the installer file from the latest release.
 
 [![Github All Releases](https://img.shields.io/github/downloads/rrirower/DP2SceneGraphWizard/total.svg)](https://github.com/rrirower/DP2SceneGraphWizard/releases/latest)
 
+# Screenshots
+
+[![Screenshot 2024-12-26 142035  thumbnail](https://github.com/user-attachments/assets/24ac6baa-3b6b-4963-be08-e7cda6e72e3d)](https://github.com/user-attachments/assets/74714583-0017-4066-8689-c0e146397294)
+
+
 # Support
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
