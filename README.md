@@ -32,6 +32,10 @@ Please download the installer file from the latest release.
 
 [![Screenshot 2024-12-26 142035  thumbnail](https://github.com/user-attachments/assets/24ac6baa-3b6b-4963-be08-e7cda6e72e3d)](https://github.com/user-attachments/assets/74714583-0017-4066-8689-c0e146397294)
 
+[![Screenshot 2024-12-26 143523 thumbnail](https://github.com/user-attachments/assets/9afd15b6-c7e8-402d-ad0e-7a90cf22f76a)](https://github.com/user-attachments/assets/94e79aae-4bbf-4554-81ac-6626b65312bd)
+
+
+
 
 # Support
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
