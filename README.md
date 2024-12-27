@@ -40,6 +40,8 @@ Please download the installer file from the latest release.
 
 [![Screenshot 2024-12-26 144615 thumbnail](https://github.com/user-attachments/assets/a2db5dda-7052-4267-82d9-117109c2d720)](https://github.com/user-attachments/assets/55108e8f-2f56-4afb-b4d5-d63ec1a49612)
 
+[![main screen thumbnail](https://github.com/user-attachments/assets/16266559-8488-48de-a061-86f4183fa9a8)](https://github.com/user-attachments/assets/51f82c95-b066-452c-a313-4902b0d86b9a)
+
 
 
 
