@@ -16,7 +16,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 # Prerequisites
 Your system must meet the following minimum requirements to use the DP2SceneGraph Wizard tool.
 * 64-bit Windows 10 or higher.
-* .Net 7 framework.
+* .Net 9 framework.
 * 30 MB Hard disk space.
 * NOTE: Your feed file MUST use an extension of '.JSON' or '.XML' and MUST conform to the Direct Publisher JSON and MRSS feed specifications AND define Category objects.
 
