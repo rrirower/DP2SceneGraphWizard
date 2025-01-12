@@ -12,6 +12,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 * Content voting.  Requires REST API back-end server.
 * JSON and MRSS feed files supported.
 * Supports Roku voice.
+* Audio only (ie. .mp3) streaming.
   
 # Prerequisites
 Your system must meet the following minimum requirements to use the DP2SceneGraph Wizard tool.
