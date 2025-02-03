@@ -19,7 +19,7 @@ Your system must meet the following minimum requirements to use the DP2SceneGrap
 * 64-bit Windows 10 or higher.
 * .Net 9 framework.
 * 30 MB Hard disk space.
-* NOTE: Your feed file MUST use an extension of '.JSON' or '.XML' and MUST conform to the Direct Publisher JSON and MRSS feed specifications AND define Category objects.
+* NOTE: Your feed file MUST use an extension of '.JSON' or '.XML' and MUST conform to the Direct Publisher [JSON](https://developer.roku.com/docs/specs/direct-publisher-feed-specs/json-dp-spec.md) and [MRSS](https://developer.roku.com/docs/specs/direct-publisher-feed-specs/mrss-dp-spec.md) feed specifications AND define Category objects.
 
 # Installation
 
