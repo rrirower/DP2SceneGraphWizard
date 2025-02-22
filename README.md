@@ -11,7 +11,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 * Intra-channel Search.
 * Content voting.  Requires REST API back-end server.
 * JSON and MRSS feed files supported.
-* Supports Roku voice.
+* Supports [Roku voice](https://developer.roku.com/en-gb/videos/platform-features/voice.md).
 * Audio only (ie. .mp3) streaming.
   
 # Prerequisites
