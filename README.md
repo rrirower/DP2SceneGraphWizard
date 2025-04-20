@@ -37,9 +37,11 @@ Please download the installer file from the latest release.
 
 [![Screenshot 2024-12-26 143854 thumbnail](https://github.com/user-attachments/assets/02e424d0-45ed-4cb4-b1a8-24cb5430b2d9)](https://github.com/user-attachments/assets/e5d50b9c-2e42-41aa-82c3-20c5292ebc3e)
 
-![Screenshot 2025-02-13 164253](https://github.com/user-attachments/assets/e208b481-0ead-4042-b1c8-7a75e80566f5)
+![Screenshot 2025-04-19 144810](https://github.com/user-attachments/assets/34148694-b7bf-4395-b0ef-c626d8755df9)
 
 ![Screenshot 2025-03-01 111534](https://github.com/user-attachments/assets/e556c53d-d092-4cdb-adef-f785d094c695)
+
+![Screenshot 2025-04-19 144843](https://github.com/user-attachments/assets/dc095006-4a9c-4775-b2c9-11ed2e83180b)
 
 [![Screenshot 2024-12-26 144229 thumbnail](https://github.com/user-attachments/assets/c94014f9-8067-44d8-b20c-2f9c224a85ab)](https://github.com/user-attachments/assets/8b5594b4-4228-4420-8321-96a5a3365f3b)
 
