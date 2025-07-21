@@ -31,21 +31,21 @@ Please download the installer file from the latest release.
 
 # Screenshots
 
-[![Screenshot 2024-12-26 142035  thumbnail](https://github.com/user-attachments/assets/24ac6baa-3b6b-4963-be08-e7cda6e72e3d)](https://github.com/user-attachments/assets/74714583-0017-4066-8689-c0e146397294)
-
-[![Screenshot 2024-12-26 143523 thumbnail](https://github.com/user-attachments/assets/9afd15b6-c7e8-402d-ad0e-7a90cf22f76a)](https://github.com/user-attachments/assets/94e79aae-4bbf-4554-81ac-6626b65312bd)
-
-[![Screenshot 2024-12-26 143854 thumbnail](https://github.com/user-attachments/assets/02e424d0-45ed-4cb4-b1a8-24cb5430b2d9)](https://github.com/user-attachments/assets/e5d50b9c-2e42-41aa-82c3-20c5292ebc3e)
+<img width="612" height="372" alt="Screenshot Welcome" src="https://github.com/user-attachments/assets/3f1e9963-0c92-4a51-a74f-648e84f34b7d" />
+<p></p>
+<img width="612" height="372" alt="Screenshot download" src="https://github.com/user-attachments/assets/ac44bbee-e821-4039-b8c7-bd6e113d4487" />
+<p></p>
+<img width="612" height="372" alt="Screenshot manifest" src="https://github.com/user-attachments/assets/91f2edf4-f8f2-414f-aaaa-87ff89d83f0c" />
 
 ![Screenshot 2025-04-19 144810](https://github.com/user-attachments/assets/34148694-b7bf-4395-b0ef-c626d8755df9)
 
 ![Screenshot 2025-03-01 111534](https://github.com/user-attachments/assets/e556c53d-d092-4cdb-adef-f785d094c695)
 
-![Screenshot 2025-04-19 144843](https://github.com/user-attachments/assets/dc095006-4a9c-4775-b2c9-11ed2e83180b)
-
-[![Screenshot 2024-12-26 144229 thumbnail](https://github.com/user-attachments/assets/c94014f9-8067-44d8-b20c-2f9c224a85ab)](https://github.com/user-attachments/assets/8b5594b4-4228-4420-8321-96a5a3365f3b)
-
-[![Screenshot 2024-12-26 144615 thumbnail](https://github.com/user-attachments/assets/a2db5dda-7052-4267-82d9-117109c2d720)](https://github.com/user-attachments/assets/55108e8f-2f56-4afb-b4d5-d63ec1a49612)
+<img width="332" height="342" alt="Screenshot menu editor" src="https://github.com/user-attachments/assets/404888b1-8bd9-419c-a9c1-4fd49ed9cfb6" />
+<p></p>
+<img width="612" height="372" alt="Screenshot images" src="https://github.com/user-attachments/assets/abe2c838-fe5c-4eb4-9384-0fd7daf9d638" />
+<p></p>
+<img width="612" height="372" alt="Screenshot API" src="https://github.com/user-attachments/assets/84f87e97-c817-4f26-a4ed-5480c118744f" />
 
 [![main screen thumbnail](https://github.com/user-attachments/assets/16266559-8488-48de-a061-86f4183fa9a8)](https://github.com/user-attachments/assets/51f82c95-b066-452c-a313-4902b0d86b9a)
 
