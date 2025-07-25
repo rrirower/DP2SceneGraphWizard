@@ -13,6 +13,8 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 * JSON and MRSS feed files supported.
 * Supports [Roku voice](https://developer.roku.com/en-gb/videos/platform-features/voice.md).
 * Audio only (ie. .mp3) streaming.
+* Watch list.
+* Channel playback persistence.  Start on one device and resume on another.  (Requires REST API server).
   
 # Prerequisites
 Your system must meet the following minimum requirements to use the DP2SceneGraph Wizard tool.
