@@ -43,7 +43,8 @@ Please download the installer file from the latest release.
 
 ![Screenshot 2025-03-01 111534](https://github.com/user-attachments/assets/e556c53d-d092-4cdb-adef-f785d094c695)
 
-<img width="332" height="342" alt="Screenshot menu editor" src="https://github.com/user-attachments/assets/404888b1-8bd9-419c-a9c1-4fd49ed9cfb6" />
+<img width="296" height="356" alt="Menu editor Screenshot 2026-01-25 120017" src="https://github.com/user-attachments/assets/0c13c75a-11da-415a-b4fe-209c4544950c" />
+
 <p></p>
 <img width="612" height="372" alt="Screenshot images" src="https://github.com/user-attachments/assets/abe2c838-fe5c-4eb4-9384-0fd7daf9d638" />
 <p></p>
