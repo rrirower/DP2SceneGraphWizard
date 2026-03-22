@@ -39,7 +39,7 @@ Please download the installer file from the latest release.
 <p></p>
 <img width="612" height="372" alt="Screenshot manifest" src="https://github.com/user-attachments/assets/91f2edf4-f8f2-414f-aaaa-87ff89d83f0c" />
 
-![Screenshot 2025-04-19 144810](https://github.com/user-attachments/assets/34148694-b7bf-4395-b0ef-c626d8755df9)
+<img width="725" height="405" alt="Screenshot 2026-03-22 122349" src="https://github.com/user-attachments/assets/f9916d91-bd4a-4933-9c7a-bccd9166e424" />
 
 ![Screenshot 2025-03-01 111534](https://github.com/user-attachments/assets/e556c53d-d092-4cdb-adef-f785d094c695)
 
