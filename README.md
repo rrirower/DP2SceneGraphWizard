@@ -39,10 +39,12 @@ Please download the installer file from the latest release.
 <p></p>
 <img width="612" height="372" alt="Screenshot manifest" src="https://github.com/user-attachments/assets/91f2edf4-f8f2-414f-aaaa-87ff89d83f0c" />
 
-<img width="725" height="405" alt="Screenshot 2026-03-22 122349" src="https://github.com/user-attachments/assets/f9916d91-bd4a-4933-9c7a-bccd9166e424" />
+<img width="725" height="405" alt="Attributes Screenshot 2026-09-27 115840" src="https://github.com/user-attachments/assets/4cecf029-1eee-4d58-b9bb-500454eef1b8" />
 
-![Screenshot 2025-03-01 111534](https://github.com/user-attachments/assets/e556c53d-d092-4cdb-adef-f785d094c695)
+<img width="717" height="342" alt="Theme Screenshot 2026-09-27 115934" src="https://github.com/user-attachments/assets/5b34ad7d-0105-43cb-9468-373d3b88c588" />
 
+<img width="377" height="376" alt="Fonts Screenshot 2026-09-27 120000" src="https://github.com/user-attachments/assets/d6b075cd-11c8-4008-81ee-60703e2d33a1" />
+<p></p>
 <img width="296" height="356" alt="Menu editor Screenshot 2026-01-25 120017" src="https://github.com/user-attachments/assets/0c13c75a-11da-415a-b4fe-209c4544950c" />
 
 <p></p>
